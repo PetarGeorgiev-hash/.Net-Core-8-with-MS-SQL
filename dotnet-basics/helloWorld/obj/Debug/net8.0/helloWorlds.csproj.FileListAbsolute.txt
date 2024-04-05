@@ -1,0 +1,14 @@
+/Users/petergeorgiev/Documents/.Net-Core-8-with-MS-SQL/dotnet-basics/helloWorld/bin/Debug/net8.0/helloWorlds
+/Users/petergeorgiev/Documents/.Net-Core-8-with-MS-SQL/dotnet-basics/helloWorld/bin/Debug/net8.0/helloWorlds.deps.json
+/Users/petergeorgiev/Documents/.Net-Core-8-with-MS-SQL/dotnet-basics/helloWorld/bin/Debug/net8.0/helloWorlds.runtimeconfig.json
+/Users/petergeorgiev/Documents/.Net-Core-8-with-MS-SQL/dotnet-basics/helloWorld/bin/Debug/net8.0/helloWorlds.dll
+/Users/petergeorgiev/Documents/.Net-Core-8-with-MS-SQL/dotnet-basics/helloWorld/bin/Debug/net8.0/helloWorlds.pdb
+/Users/petergeorgiev/Documents/.Net-Core-8-with-MS-SQL/dotnet-basics/helloWorld/obj/Debug/net8.0/helloWorlds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petergeorgiev/Documents/.Net-Core-8-with-MS-SQL/dotnet-basics/helloWorld/obj/Debug/net8.0/helloWorlds.AssemblyInfoInputs.cache
+/Users/petergeorgiev/Documents/.Net-Core-8-with-MS-SQL/dotnet-basics/helloWorld/obj/Debug/net8.0/helloWorlds.AssemblyInfo.cs
+/Users/petergeorgiev/Documents/.Net-Core-8-with-MS-SQL/dotnet-basics/helloWorld/obj/Debug/net8.0/helloWorlds.csproj.CoreCompileInputs.cache
+/Users/petergeorgiev/Documents/.Net-Core-8-with-MS-SQL/dotnet-basics/helloWorld/obj/Debug/net8.0/helloWorlds.dll
+/Users/petergeorgiev/Documents/.Net-Core-8-with-MS-SQL/dotnet-basics/helloWorld/obj/Debug/net8.0/refint/helloWorlds.dll
+/Users/petergeorgiev/Documents/.Net-Core-8-with-MS-SQL/dotnet-basics/helloWorld/obj/Debug/net8.0/helloWorlds.pdb
+/Users/petergeorgiev/Documents/.Net-Core-8-with-MS-SQL/dotnet-basics/helloWorld/obj/Debug/net8.0/helloWorlds.genruntimeconfig.cache
+/Users/petergeorgiev/Documents/.Net-Core-8-with-MS-SQL/dotnet-basics/helloWorld/obj/Debug/net8.0/ref/helloWorlds.dll
