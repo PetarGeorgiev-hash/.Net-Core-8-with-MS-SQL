@@ -1,0 +1,14 @@
+/Users/petergeorgiev/Documents/models/bin/Debug/net8.0/models
+/Users/petergeorgiev/Documents/models/bin/Debug/net8.0/models.deps.json
+/Users/petergeorgiev/Documents/models/bin/Debug/net8.0/models.runtimeconfig.json
+/Users/petergeorgiev/Documents/models/bin/Debug/net8.0/models.dll
+/Users/petergeorgiev/Documents/models/bin/Debug/net8.0/models.pdb
+/Users/petergeorgiev/Documents/models/obj/Debug/net8.0/models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petergeorgiev/Documents/models/obj/Debug/net8.0/models.AssemblyInfoInputs.cache
+/Users/petergeorgiev/Documents/models/obj/Debug/net8.0/models.AssemblyInfo.cs
+/Users/petergeorgiev/Documents/models/obj/Debug/net8.0/models.csproj.CoreCompileInputs.cache
+/Users/petergeorgiev/Documents/models/obj/Debug/net8.0/models.dll
+/Users/petergeorgiev/Documents/models/obj/Debug/net8.0/refint/models.dll
+/Users/petergeorgiev/Documents/models/obj/Debug/net8.0/models.pdb
+/Users/petergeorgiev/Documents/models/obj/Debug/net8.0/models.genruntimeconfig.cache
+/Users/petergeorgiev/Documents/models/obj/Debug/net8.0/ref/models.dll
