@@ -1,0 +1,14 @@
+/Users/petergeorgiev/Documents/secondLesson/bin/Debug/net8.0/secondLesson
+/Users/petergeorgiev/Documents/secondLesson/bin/Debug/net8.0/secondLesson.deps.json
+/Users/petergeorgiev/Documents/secondLesson/bin/Debug/net8.0/secondLesson.runtimeconfig.json
+/Users/petergeorgiev/Documents/secondLesson/bin/Debug/net8.0/secondLesson.dll
+/Users/petergeorgiev/Documents/secondLesson/bin/Debug/net8.0/secondLesson.pdb
+/Users/petergeorgiev/Documents/secondLesson/obj/Debug/net8.0/secondLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petergeorgiev/Documents/secondLesson/obj/Debug/net8.0/secondLesson.AssemblyInfoInputs.cache
+/Users/petergeorgiev/Documents/secondLesson/obj/Debug/net8.0/secondLesson.AssemblyInfo.cs
+/Users/petergeorgiev/Documents/secondLesson/obj/Debug/net8.0/secondLesson.csproj.CoreCompileInputs.cache
+/Users/petergeorgiev/Documents/secondLesson/obj/Debug/net8.0/secondLesson.dll
+/Users/petergeorgiev/Documents/secondLesson/obj/Debug/net8.0/refint/secondLesson.dll
+/Users/petergeorgiev/Documents/secondLesson/obj/Debug/net8.0/secondLesson.pdb
+/Users/petergeorgiev/Documents/secondLesson/obj/Debug/net8.0/secondLesson.genruntimeconfig.cache
+/Users/petergeorgiev/Documents/secondLesson/obj/Debug/net8.0/ref/secondLesson.dll

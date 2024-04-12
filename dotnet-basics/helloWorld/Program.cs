@@ -113,7 +113,7 @@ namespace helloWorld
             };
             Console.WriteLine(myDicteonary["Cheese"][1]);
             Console.WriteLine(myDicteonary["Milk"][0]);
-
+            Console.WriteLine(Math.Pow(5, 2));
         }
     }
 }
