@@ -1,0 +1,14 @@
+/Users/petergeorgiev/Documents/fifthlesson/bin/Debug/net8.0/fifthlesson
+/Users/petergeorgiev/Documents/fifthlesson/bin/Debug/net8.0/fifthlesson.deps.json
+/Users/petergeorgiev/Documents/fifthlesson/bin/Debug/net8.0/fifthlesson.runtimeconfig.json
+/Users/petergeorgiev/Documents/fifthlesson/bin/Debug/net8.0/fifthlesson.dll
+/Users/petergeorgiev/Documents/fifthlesson/bin/Debug/net8.0/fifthlesson.pdb
+/Users/petergeorgiev/Documents/fifthlesson/obj/Debug/net8.0/fifthlesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petergeorgiev/Documents/fifthlesson/obj/Debug/net8.0/fifthlesson.AssemblyInfoInputs.cache
+/Users/petergeorgiev/Documents/fifthlesson/obj/Debug/net8.0/fifthlesson.AssemblyInfo.cs
+/Users/petergeorgiev/Documents/fifthlesson/obj/Debug/net8.0/fifthlesson.csproj.CoreCompileInputs.cache
+/Users/petergeorgiev/Documents/fifthlesson/obj/Debug/net8.0/fifthlesson.dll
+/Users/petergeorgiev/Documents/fifthlesson/obj/Debug/net8.0/refint/fifthlesson.dll
+/Users/petergeorgiev/Documents/fifthlesson/obj/Debug/net8.0/fifthlesson.pdb
+/Users/petergeorgiev/Documents/fifthlesson/obj/Debug/net8.0/fifthlesson.genruntimeconfig.cache
+/Users/petergeorgiev/Documents/fifthlesson/obj/Debug/net8.0/ref/fifthlesson.dll
