@@ -1,0 +1,14 @@
+/Users/petergeorgiev/Documents/asyncAwait/bin/Debug/net8.0/asyncAwait
+/Users/petergeorgiev/Documents/asyncAwait/bin/Debug/net8.0/asyncAwait.deps.json
+/Users/petergeorgiev/Documents/asyncAwait/bin/Debug/net8.0/asyncAwait.runtimeconfig.json
+/Users/petergeorgiev/Documents/asyncAwait/bin/Debug/net8.0/asyncAwait.dll
+/Users/petergeorgiev/Documents/asyncAwait/bin/Debug/net8.0/asyncAwait.pdb
+/Users/petergeorgiev/Documents/asyncAwait/obj/Debug/net8.0/asyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petergeorgiev/Documents/asyncAwait/obj/Debug/net8.0/asyncAwait.AssemblyInfoInputs.cache
+/Users/petergeorgiev/Documents/asyncAwait/obj/Debug/net8.0/asyncAwait.AssemblyInfo.cs
+/Users/petergeorgiev/Documents/asyncAwait/obj/Debug/net8.0/asyncAwait.csproj.CoreCompileInputs.cache
+/Users/petergeorgiev/Documents/asyncAwait/obj/Debug/net8.0/asyncAwait.dll
+/Users/petergeorgiev/Documents/asyncAwait/obj/Debug/net8.0/refint/asyncAwait.dll
+/Users/petergeorgiev/Documents/asyncAwait/obj/Debug/net8.0/asyncAwait.pdb
+/Users/petergeorgiev/Documents/asyncAwait/obj/Debug/net8.0/asyncAwait.genruntimeconfig.cache
+/Users/petergeorgiev/Documents/asyncAwait/obj/Debug/net8.0/ref/asyncAwait.dll
